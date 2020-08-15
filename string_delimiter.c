@@ -1,4 +1,3 @@
-#include <stdio.h> 
 int main() 
 { 
     char s[] = "my_name_is_edcast_future_skills"; 
